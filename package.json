@@ -1,0 +1,15 @@
+{
+  "name": "Hall-of-Shame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Cardinal-Platform/Hall-of-Shame.git",
+  "author": "E99p1ant <i@github.red>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build"
+  }
+}
